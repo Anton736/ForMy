@@ -1,0 +1,1 @@
+Main.java var_and_World/cartridges/*.java var_and_World/enums/*.java var_and_World/controlObject/*.java var_and_World/gun/*.java var_and_World/interfaces/*.java var_and_World/live/*.java var_and_World/live/typePeples/*.java var_and_World/myException/*.java var_and_World/nature/*.java var_and_World/shield/*.java var_and_World/*.java -d myOut
